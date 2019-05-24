@@ -1,0 +1,47 @@
+
+.bg-orange {
+    background-color: #F5820B !important;
+  }
+  
+  .bg-grey-dark {
+    background-color: #737373 !important;
+  }
+  
+  .text-grey-dark {
+    color: #737373 !important;
+  }
+  
+  .border-grey-dark {
+    border-color:  #737373 !important;
+  }
+  
+  .bg-white-dark {
+    background-color: #f1f1f1 !important;
+  }
+  
+  .bg-white {
+    background-color: white !important;
+  }
+  
+  .text-black {
+    color: #363333 !important;
+  }
+  
+  .text-code-orange {
+    color: #E7AD52; 
+  }
+  
+  .w-42 {
+    width: 7rem;
+  }
+  
+  .px-12 {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  
+  .wizard-content p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    line-height: 28px;
+  }
